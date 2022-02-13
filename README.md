@@ -1,4 +1,5 @@
 # iBlog 
-This is Semidevelopled Coded Blog Website
-To see It click on the link below
-https://priyanshu-priya.github.io/iBlog/#
+This is a Static Templete Website Created By Coding In HTML,CSS,and JS just for Practice. Its Purpose is to teach Coding and Photography. 
+This is Semi developled Coded Blog Website
+Click on the Link Below to See it
+https://priyanshu-priya.github.io/iBlog/
